@@ -15,6 +15,7 @@ section{
 }
 img{
   border-radius: 1rem;
+  width: 100%;
   max-width: 700px;
 }
 p{
