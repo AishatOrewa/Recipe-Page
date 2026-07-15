@@ -13,12 +13,12 @@ section{
   width: 100%;
   max-width: 700px;
 }
-p{
-  font-size: 16px;
-}
 img{
   border-radius: 1rem;
   max-width: 700px;
+}
+p{
+  font-size: 16px;
 }
 .Preparation{
   background-color: hsl(330, 100%, 98%);
