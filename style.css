@@ -10,12 +10,15 @@ section{
   background-color: hsl(0, 0%, 100%);
   padding: 2rem;
   border-radius: 1rem;
+  width: 100%;
+  max-width: 700px;
 }
 p{
   font-size: 16px;
 }
 img{
   border-radius: 1rem;
+  max-width: 700px;
 }
 .Preparation{
   background-color: hsl(330, 100%, 98%);
