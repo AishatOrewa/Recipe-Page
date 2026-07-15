@@ -4,6 +4,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  color: hsl(30, 10%, 34%);
 }
 section{
   background-color: hsl(0, 0%, 100%);
