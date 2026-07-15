@@ -5,3 +5,8 @@ body{
   align-items: center;
   min-height: 100vh;
 }
+section{
+  background-color: hsl(0, 0%, 100%);
+  padding: 2rem;
+  border-radius: 1rem;
+}
