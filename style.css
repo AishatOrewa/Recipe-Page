@@ -21,6 +21,6 @@ img{
 div>ul>li::marker{
   color: hsl(332, 51%, 32%);
 }
-.Ingredients>ul>li::marker{
+.Ingredients>ul>li::marker, .Instructions>ol>li::marker{
   color: hsl(14, 45%, 36%);
 }
